@@ -1,5 +1,6 @@
 # Digit Recognizer using CNN
 Handwritten Recognition using Python, pygame, sys, numpy and tensorflow.
+[View Digit Recognition Video](https://github.com/Blurenis/Digit-Recognition/blob/master/assets/87265095/7d710bf1-fcf2-4b7b-ba16-54caa4b884ea)
 
 ## Data to train the model
 
@@ -14,19 +15,4 @@ I was greatly inspired by Chirag Mohan Gupt's work on Kaggle to train my model.
 Here is the link to his Kaggle page: [Chirag Mohan Gupt's Kaggle Page](https://www.kaggle.com/chiragmohangupta)
 
 ---------------------------------------------
-## Download and Run
-To run the program you will need [Processing](https://processing.org/)
-
-
-<iframe width="640" height="480" src="https://www.youtube.com/embed/ID_DE_LA_VIDEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-![snakeai-2](https://user-images.githubusercontent.com/36581610/50039092-299f1b00-fffa-11e8-8e34-c67c1000fdf9.gif)
-
-
-![snakeai-graph](https://user-images.githubusercontent.com/36581610/50039099-48051680-fffa-11e8-875f-2cb5b0e26f70.PNG)
-
 
