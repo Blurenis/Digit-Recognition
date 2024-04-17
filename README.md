@@ -17,4 +17,4 @@ I was greatly inspired by Chirag Mohan Gupt's work on Kaggle to train my model.
 Here is the link to his Kaggle page: [Chirag Mohan Gupt's Kaggle Page](https://www.kaggle.com/chiragmohangupta)
 
 ---------------------------------------------
-
+![Digit Recognition GIF](https://github.com/Blurenis/Digit-Recognition/raw/master/path/to/gif.gif)
