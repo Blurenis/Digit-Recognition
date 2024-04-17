@@ -1,7 +1,7 @@
 # Digit Recognizer using CNN
 Handwritten Recognition using Python, pygame, sys, numpy and tensorflow.
 
-![View Digit Recognition Video](https://github.com/Blurenis/Digit-Recognition/blob/master/assets/87265095/7d710bf1-fcf2-4b7b-ba16-54caa4b884ea)
+[View Digit Recognition Video]([https://github.com/Blurenis/Digit-Recognition/blob/master/assets/87265095/7d710bf1-fcf2-4b7b-ba16-54caa4b884ea](https://github.com/Blurenis/Digit-Recognition/issues/2#issue-2248196626))
 
 ## Data to train the model
 
