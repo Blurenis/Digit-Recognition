@@ -18,7 +18,7 @@ Here is the link to his Kaggle page: [Chirag Mohan Gupt's Kaggle Page](https://w
 To run the program you will need [Processing](https://processing.org/)
 
 
-![snakeai-1](https://user-images.githubusercontent.com/36581610/50039309-52291400-fffe-11e8-8b57-2344ba92ddc3.gif)
+![snakeai-1]([https://user-images.githubusercontent.com/36581610/50039309-52291400-fffe-11e8-8b57-2344ba92ddc3.gif](https://github.com/Blurenis/Digit-Recognition/assets/87265095/7d710bf1-fcf2-4b7b-ba16-54caa4b884ea)
 
 
 
