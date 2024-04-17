@@ -18,7 +18,7 @@ Here is the link to his Kaggle page: [Chirag Mohan Gupt's Kaggle Page](https://w
 To run the program you will need [Processing](https://processing.org/)
 
 
-![Recording-2024-04-17-142354](https://github.com/Blurenis/Digit-Recognition/assets/87265095/909d1e36-8036-41f1-81cd-c7c84d96b5e4)
+<iframe width="640" height="480" src="https://www.youtube.com/embed/ID_DE_LA_VIDEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
